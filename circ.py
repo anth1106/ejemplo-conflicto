@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
  
 # Arxiu circ.py : càlcul perímetre d'una circumferència
+# Autor Anthony
  
 radi = input("Radi de la circumferència? ")
 PI = 3.14
